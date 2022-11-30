@@ -1,0 +1,6 @@
+bs4
+requests
+fake_useragent
+selenium
+pysqlite3
+lxml

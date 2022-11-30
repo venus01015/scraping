@@ -1,0 +1,7 @@
+bs4
+requests
+selenium
+pysqlite3
+lxml
+azure-storage-blob
+pyodbc

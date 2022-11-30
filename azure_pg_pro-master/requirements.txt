@@ -1,0 +1,6 @@
+pillow
+selenium
+requests
+fake_useragent
+azure.storage.blob
+pyodbc
